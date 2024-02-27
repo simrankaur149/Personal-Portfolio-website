@@ -1,0 +1,18 @@
+#1a1110  -----   black
+#16161d  ----- dim black
+
+#9c0000  ---- red
+#c30000  ---- __
+
+
+<div class="grid-items">
+    <div class="site-img">
+      <img src="img/1.png" alt="">
+        <div>
+           <h5>HTML & CSS websites</h5>
+           <a href="#">know more <i class="fa-solid fa-arrow-right"></i></a>
+        </div>
+    </div>
+</div>
+
+<?php ?>
